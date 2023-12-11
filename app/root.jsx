@@ -16,6 +16,7 @@ import favicon from '../public/favicon.svg';
 import resetStyles from './styles/reset.css';
 import appStyles from './styles/app.css';
 import {Layout} from '~/components/Layout';
+//commment
 
 /**
  * This is important to avoid re-fetching root queries on sub-navigations
